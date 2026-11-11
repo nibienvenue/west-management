@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd waste-management && npm ci",
+  "buildCommand": "cd waste-management && npm run build",
+  "outputDirectory": "waste-management/dist"
+}

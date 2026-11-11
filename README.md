@@ -18,6 +18,10 @@ npm run build
 npm run lint
 ```
 
+## Deploy to Vercel
+
+Import this repository into Vercel and leave the project root set to the repository root. [`vercel.json`](vercel.json) installs and builds the app from `waste-management/` and publishes its `dist/` output.
+
 ## Included workflows
 
 - Community dashboard with collection activity and impact indicators
